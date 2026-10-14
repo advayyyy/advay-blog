@@ -35,6 +35,6 @@ export const site = {
   social: [
     // TODO: replace these with your own links (or delete the ones you don't use).
     { label: 'Email', href: 'mailto:advayyyyyyy@gmail.com', icon: 'envelope' },
-    { label: 'GitHub', href: 'https://github.com/advay', icon: 'github' },
+    { label: 'GitHub', href: 'https://github.com/advayyyy', icon: 'github' },
   ] as SocialItem[],
 }
